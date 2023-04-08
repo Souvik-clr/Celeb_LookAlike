@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: A small package for to whom does your face match
+Author: Souvik Mondal
+Author-email: souvik9733848376@gmail.com
+Requires-Python: >3.7

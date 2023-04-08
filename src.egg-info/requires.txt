@@ -1,0 +1,1 @@
+mtcnn>=0.1.0tensorflow==2.3.1keras==2.4.3keras-vggface==0.6keras_applications=1.0.8PyYAMLtqdmscikit-learnstreamlitbing-image-downloader

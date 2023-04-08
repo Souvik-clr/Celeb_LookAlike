@@ -1,0 +1,135 @@
+[2023-03-14 23:28:02,126: INFO: 01_generate_img_pkl]: >>>>> stage_01 started
+[2023-03-14 23:28:02,127: ERROR: 01_generate_img_pkl]: 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "src/01_generate_img_pkl.py", line 53, in <module>
+    generate_data_pickle_file(config_path = parsed_args.config, params_path= parsed_args.params)
+  File "src/01_generate_img_pkl.py", line 19, in generate_data_pickle_file
+    artifacts = config['artifacts']
+TypeError: 'NoneType' object is not subscriptable
+[2023-03-14 23:41:04,760: INFO: 01_generate_img_pkl]: >>>>> stage_01 started
+[2023-03-14 23:41:04,761: ERROR: 01_generate_img_pkl]: 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "src/01_generate_img_pkl.py", line 54, in <module>
+    generate_data_pickle_file(config_path = parsed_args.config, params_path= parsed_args.params)
+  File "src/01_generate_img_pkl.py", line 19, in generate_data_pickle_file
+    temp = config['artifacts']
+TypeError: 'NoneType' object is not subscriptable
+[2023-03-14 23:42:24,742: INFO: 01_generate_img_pkl]: >>>>> stage_01 started
+[2023-03-14 23:42:24,742: ERROR: 01_generate_img_pkl]: 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "src/01_generate_img_pkl.py", line 53, in <module>
+    generate_data_pickle_file(config_path = parsed_args.config, params_path= parsed_args.params)
+  File "src/01_generate_img_pkl.py", line 19, in generate_data_pickle_file
+    config['artifacts']
+TypeError: 'NoneType' object is not subscriptable
+[2023-03-14 23:43:23,721: INFO: 01_generate_img_pkl]: >>>>> stage_01 started
+[2023-03-14 23:43:23,722: ERROR: 01_generate_img_pkl]: name 'artifacts' is not defined
+Traceback (most recent call last):
+  File "src/01_generate_img_pkl.py", line 53, in <module>
+    generate_data_pickle_file(config_path = parsed_args.config, params_path= parsed_args.params)
+  File "src/01_generate_img_pkl.py", line 21, in generate_data_pickle_file
+    artifacts_dir = artifacts['artifacts_dir']
+NameError: name 'artifacts' is not defined
+[2023-03-14 23:44:09,417: INFO: 01_generate_img_pkl]: >>>>> stage_01 started
+[2023-03-14 23:44:09,418: ERROR: 01_generate_img_pkl]: 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "src/01_generate_img_pkl.py", line 53, in <module>
+    generate_data_pickle_file(config_path = parsed_args.config, params_path= parsed_args.params)
+  File "src/01_generate_img_pkl.py", line 19, in generate_data_pickle_file
+    artifacts = config['artifacts']
+TypeError: 'NoneType' object is not subscriptable
+[2023-03-14 23:51:45,725: INFO: 01_generate_img_pkl]: >>>>> stage_01 started
+[2023-03-14 23:51:45,727: ERROR: 01_generate_img_pkl]: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "src/01_generate_img_pkl.py", line 54, in <module>
+    generate_data_pickle_file(config_path = parsed_args.config, params_path= parsed_args.params)
+  File "src/01_generate_img_pkl.py", line 20, in generate_data_pickle_file
+    artifacts = config.get('artifacts')
+AttributeError: 'NoneType' object has no attribute 'get'
+[2023-03-14 23:53:50,586: INFO: 01_generate_img_pkl]: >>>>> stage_01 started
+[2023-03-14 23:53:50,586: ERROR: 01_generate_img_pkl]: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "src/01_generate_img_pkl.py", line 54, in <module>
+    generate_data_pickle_file(config_path = parsed_args.config, params_path= parsed_args.params)
+  File "src/01_generate_img_pkl.py", line 20, in generate_data_pickle_file
+    artifacts = config.get('artifacts')
+AttributeError: 'NoneType' object has no attribute 'get'
+[2023-03-14 23:54:06,107: INFO: 01_generate_img_pkl]: >>>>> stage_01 started
+[2023-03-14 23:54:06,107: ERROR: 01_generate_img_pkl]: 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "src/01_generate_img_pkl.py", line 53, in <module>
+    generate_data_pickle_file(config_path = parsed_args.config, params_path= parsed_args.params)
+  File "src/01_generate_img_pkl.py", line 19, in generate_data_pickle_file
+    artifacts = config['artifacts']
+TypeError: 'NoneType' object is not subscriptable
+[2023-03-15 00:04:28,795: INFO: 01_generate_img_pkl]: >>>>> stage_01 started
+[2023-03-15 00:04:28,796: ERROR: 01_generate_img_pkl]: 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "src/01_generate_img_pkl.py", line 53, in <module>
+    generate_data_pickle_file(config_path = parsed_args.config, params_path= parsed_args.params)
+  File "src/01_generate_img_pkl.py", line 19, in generate_data_pickle_file
+    artifacts = config['artifacts']
+TypeError: 'NoneType' object is not subscriptable
+[2023-03-15 00:05:15,567: INFO: 01_generate_img_pkl]: >>>>> stage_01 started
+[2023-03-15 00:05:15,567: ERROR: 01_generate_img_pkl]: 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "src/01_generate_img_pkl.py", line 53, in <module>
+    generate_data_pickle_file(config_path = parsed_args.config, params_path= parsed_args.params)
+  File "src/01_generate_img_pkl.py", line 19, in generate_data_pickle_file
+    artifacts = config['artifacts']
+TypeError: 'NoneType' object is not subscriptable
+[2023-03-15 00:05:55,525: INFO: 01_generate_img_pkl]: >>>>> stage_01 started
+[2023-03-15 00:05:55,525: ERROR: 01_generate_img_pkl]: 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "src/01_generate_img_pkl.py", line 53, in <module>
+    generate_data_pickle_file(config_path = parsed_args.config, params_path= parsed_args.params)
+  File "src/01_generate_img_pkl.py", line 19, in generate_data_pickle_file
+    artifacts = config['artifacts']
+TypeError: 'NoneType' object is not subscriptable
+[2023-03-15 00:10:07,010: INFO: 01_generate_img_pkl]: >>>>> stage_01 started
+[2023-03-15 00:10:07,010: ERROR: 01_generate_img_pkl]: Invalid configuration file: config/config.yaml
+Traceback (most recent call last):
+  File "src/01_generate_img_pkl.py", line 55, in <module>
+    generate_data_pickle_file(config_path = parsed_args.config, params_path= parsed_args.params)
+  File "src/01_generate_img_pkl.py", line 18, in generate_data_pickle_file
+    raise ValueError(f"Invalid configuration file: {config_path}")
+ValueError: Invalid configuration file: config/config.yaml
+[2023-03-15 00:15:19,138: INFO: 01_generate_img_pkl]: >>>>> stage_01 started
+[2023-03-15 00:15:19,138: ERROR: 01_generate_img_pkl]: 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "src/01_generate_img_pkl.py", line 55, in <module>
+    generate_data_pickle_file(config_path = parsed_args.config, params_path= parsed_args.params)
+  File "src/01_generate_img_pkl.py", line 21, in generate_data_pickle_file
+    artifacts = config['artifacts']
+TypeError: 'NoneType' object is not subscriptable
+[2023-03-15 00:33:24,845: INFO: 01_generate_img_pkl]: >>>>> stage_01 started
+[2023-03-15 00:33:24,853: ERROR: 01_generate_img_pkl]: 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "src/01_generate_img_pkl.py", line 55, in <module>
+    generate_data_pickle_file(config_path = parsed_args.config, params_path= parsed_args.params)
+  File "src/01_generate_img_pkl.py", line 21, in generate_data_pickle_file
+    artifacts = config['artifacts']
+TypeError: 'NoneType' object is not subscriptable
+[2023-03-16 00:06:38,520: INFO: 01_generate_img_pkl]: >>>>> stage_01 started
+[2023-03-16 00:06:38,543: INFO: all_utils]: Directory is create at artifacts\pickle_format_data
+[2023-03-16 00:06:38,855: INFO: 01_generate_img_pkl]: Total actress are: 100
+[2023-03-16 00:06:38,855: INFO: 01_generate_img_pkl]: Total actress images: 8664
+[2023-03-16 00:06:38,861: INFO: 01_generate_img_pkl]: stage_01 completed!>>>>>
+[2023-03-16 11:12:08,867: INFO: 01_generate_img_pkl]: >>>>> stage_01 started
+[2023-03-16 11:12:08,883: INFO: all_utils]: Directory is create at artifacts\pickle_format_data
+[2023-03-16 11:12:09,261: INFO: 01_generate_img_pkl]: Total actress are: 100
+[2023-03-16 11:12:09,261: INFO: 01_generate_img_pkl]: Total actress images: 8664
+[2023-03-16 11:12:09,275: INFO: 01_generate_img_pkl]: stage_01 completed!>>>>>
+[2023-03-17 21:06:30,081: INFO: 01_generate_img_pkl]: >>>>> stage_01 started
+[2023-03-17 21:06:30,097: INFO: all_utils]: Directory is create at artifacts\pickle_format_data
+[2023-03-17 21:06:30,362: INFO: 01_generate_img_pkl]: Total actress are: 100
+[2023-03-17 21:06:30,362: INFO: 01_generate_img_pkl]: Total actress images: 8664
+[2023-03-17 21:06:30,382: INFO: 01_generate_img_pkl]: stage_01 completed!>>>>>
+[2023-03-17 21:23:12,684: INFO: 01_generate_img_pkl]: >>>>> stage_01 started
+[2023-03-17 21:23:12,684: INFO: all_utils]: Directory is create at artifacts\pickle_format_data
+[2023-03-17 21:23:13,038: INFO: 01_generate_img_pkl]: Total actress are: 100
+[2023-03-17 21:23:13,038: INFO: 01_generate_img_pkl]: Total actress images: 8664
+[2023-03-17 21:23:13,056: INFO: 01_generate_img_pkl]: stage_01 completed!>>>>>
+[2023-03-17 21:39:28,187: INFO: 02_feature_extractor]: >>>>> stage_02 started
+[2023-03-17 21:51:57,604: INFO: all_utils]: Directory is create at artifacts\extracted_features
+[2023-03-17 22:15:06,243: INFO: 02_feature_extractor]: stage_02 completed!>>>>>
